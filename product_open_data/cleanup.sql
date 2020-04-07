@@ -1,0 +1,16 @@
+drop table brand;
+drop table brand_group;
+drop table brand_owner;
+drop table brand_owner_bsin;
+drop table brand_type;
+drop table gs1_gcp;
+drop table gs1_gpc;
+drop table gs1_gcp_nb;
+drop table gs1_gcp_rc;
+drop table gs1_gpc_hier;
+drop table gs1_prefix;
+drop table gtin;
+drop table label;
+drop table label_gtin;
+drop table nutrition_us;
+drop table pkg_type;
