@@ -66,30 +66,31 @@ https://pod.opendatasoft.com/explore/
 
 #### Open Sources
 
-https://github.com/papyrussolution/UhttBarcodeReference
-http://gepir.gs1.org/
-https://www.datakick.org/download
-http://product-open-data.com/download
-https://web.archive.org/web/20171227230516/http://www.product-open-data.com:80/download
-https://pod.opendatasoft.com/explore/dataset/pod_gtin/table/
-https://pod.opendatasoft.com/explore/?sort=modified
-https://product.okfn.org/
-https://world.openfoodfacts.org/data
-https://pod.opendatasoft.com/explore/?sort=modified
-http://product-open-data.com/owner/list
-https://github.com/papyrussolution/UhttBarcodeReference/
+NB This list needs curation. Some sources may no longer be available. 
+
+* https://github.com/papyrussolution/UhttBarcodeReference
+* http://gepir.gs1.org/
+* https://www.datakick.org/download
+* http://product-open-data.com/download
+* https://web.archive.org/web/20171227230516/http://www.product-open-data.com:80/download
+* https://pod.opendatasoft.com/explore/dataset/pod_gtin/table/
+* https://pod.opendatasoft.com/explore/?sort=modified
+* https://product.okfn.org/
+* https://world.openfoodfacts.org/data
+* https://pod.opendatasoft.com/explore/?sort=modified
+* http://product-open-data.com/owner/list
 
 
 #### Restricted / Commerial Sources
 
-https://upcdatabase.com/
-https://barcodesdatabase.org/
-http://upcspy.com/api/
-https://www.ean-search.org/
-https://upcdatabase.com/docs/faq.asp
+* https://upcdatabase.com/
+* https://barcodesdatabase.org/
+* http://upcspy.com/api/
+* https://www.ean-search.org/
+* https://upcdatabase.com/docs/faq.asp
 
 #### Metadata / More Information
 
-https://opendata.stackexchange.com/questions/562/is-there-a-global-database-of-all-products-with-ean-13-barcodes
-https://duckduckgo.com/?q=barcode+database+free&ia=web
-https://github.com/okfn/labs-opd/issues/5
+* https://opendata.stackexchange.com/questions/562/is-there-a-global-database-of-all-products-with-ean-13-barcodes
+* https://duckduckgo.com/?q=barcode+database+free&ia=web
+* https://github.com/okfn/labs-opd/issues/5
